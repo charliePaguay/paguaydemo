@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+footer{
+color: white;
+position: fixed;
+bottom: 0px;
+width: 100%;
+}
